@@ -1,4 +1,4 @@
-# Hi, I'm [Tonia Chidiebere]
+# Hi, I'm Tonia Chidiebere
 
 Aspiring Data Analyst passionate about transforming raw data into meaningful insights that support data-driven decision-making.
 
